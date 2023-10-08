@@ -1,0 +1,28 @@
+Если нажать на карту, то вместо good luck выводит hot
+
+Если нажать еще раз, то вместо hot выводит cold,
+
+Еще нажать третий раз, то вместо cold выводит ice
+
+
+text-transform: capitalize;=v kajdom slova 1 bukva bolşaya
+
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgba(240, 248, 255, 0);=color bıl na bukvah
+
+
+
+        position: relative;=eto nujno ştobı roditel slidil za svayimi position:absolute; detmi
+
+
+
+offsetX=eto kordinatı clika po x
+
+
+iframe
+
+
+
+
+ondragstart="return false;"=stobı ne tenulas kartinka 
