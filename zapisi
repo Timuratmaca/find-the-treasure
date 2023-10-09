@@ -1,8 +1,6 @@
-Если нажать на карту, то вместо good luck выводит hot
 
-Если нажать еще раз, то вместо hot выводит cold,
-
-Еще нажать третий раз, то вместо cold выводит ice
+1) dodelat podskaski
+2) şagi v konsole 
 
 
 text-transform: capitalize;=v kajdom slova 1 bukva bolşaya

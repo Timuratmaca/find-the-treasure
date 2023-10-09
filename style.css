@@ -32,9 +32,6 @@ body{
 .goodluckCont{
     text-align: center;
 }
-img{
-    /* text-align: center; */
-}
 #pirate{
     width: 50px;
     /* text-align:center; */
@@ -42,6 +39,7 @@ img{
     position: absolute;
     left: 55px;
     transition: 2s;
+    top:10px;
 }
 #map{
     /* text-align: center; */
