@@ -18,6 +18,18 @@ body{
     -webkit-background-clip: text;
     color: rgba(240, 248, 255, 0);
 }
+.gamenumber{
+    width:120px;
+    margin-left: 690px;
+
+}
+#number{
+    background-color: rgb(255, 255, 255);
+    width:100px;
+    padding:10px;
+    border-radius: 10px;
+    box-shadow:0 0 10px black;
+}
 .headerContainer{
     text-align: center;
 }
